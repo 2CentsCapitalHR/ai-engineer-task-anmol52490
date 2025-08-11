@@ -1,0 +1,21 @@
+# Core app
+streamlit>=1.33
+python-docx>=0.8.11
+python-dotenv>=1.0.1
+pandas>=2.2
+numpy>=1.26
+
+# Retrieval / models
+sentence-transformers>=2.5
+torch>=2.1
+
+# Pinecone (v3 preferred; code also supports v2 if you already have it)
+pinecone-client>=3,<4
+
+# Graph / orchestration
+langgraph>=0.2.20
+langchain-core>=0.2.0
+
+# LLMs (either/or; code auto-selects Gemini if GOOGLE_API_KEY is set)
+openai>=1.14.0
+google-generativeai>=0.7.2
