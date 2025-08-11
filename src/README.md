@@ -127,7 +127,7 @@ streamlit run app.py
 
 * **Primary knowledge base (replace with your folder):**
 
-  * `https://drive.google.com/drive/folders/REPLACE_ME_WITH_YOUR_FOLDER_ID`
+  * `[https://drive.google.com/drive/folders/REPLACE_ME_WITH_YOUR_FOLDER_ID](https://drive.google.com/drive/folders/1C3Kcmqd7PEWh2KDs1-BsK6RYkMdC9Y_j?usp=sharing)`
 * **Additional reference pack (as provided):**
 
   * `https://2centscapital-my.sharepoint.com/:w:/p/nishlesh_goel/EeH965S6KtNLm3YFk8bIVvQBHDCgLTZs8RmcwCJwjdX3-w?e=u6H1YR`
