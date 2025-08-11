@@ -127,12 +127,12 @@ streamlit run app.py
 
 * **Primary knowledge base (replace with your folder):**
 
-  * `[https://drive.google.com/drive/folders/REPLACE_ME_WITH_YOUR_FOLDER_ID](https://drive.google.com/drive/folders/1C3Kcmqd7PEWh2KDs1-BsK6RYkMdC9Y_j?usp=sharing)`
-* **Additional reference pack (as provided):**
+* [Google Drive Folder](https://drive.google.com/drive/folders/1C3Kcmqd7PEWh2KDs1-BsK6RYkMdC9Y_j?usp=sharing)  
+* **Additional reference pack (as provided):**  
+  * [SharePoint Link](https://2centscapital-my.sharepoint.com/:w:/p/nishlesh_goel/EeH965S6KtNLm3YFk8bIVvQBHDCgLTZs8RmcwCJwjdX3-w?e=u6H1YR)
 
-  * `https://2centscapital-my.sharepoint.com/:w:/p/nishlesh_goel/EeH965S6KtNLm3YFk8bIVvQBHDCgLTZs8RmcwCJwjdX3-w?e=u6H1YR`
 
-> Replace the Drive URL above with your actual folder. Ensure files are accessible to your account or service user.
+> Google Drive consist of Pinecone API key
 
 ---
 
@@ -152,6 +152,4 @@ streamlit run app.py
 
 ---
 
-## License
 
-Internal evaluation project. Add your license if you plan to publish.
