@@ -1,0 +1,203 @@
+{
+  "file": "adgm-ra-resolution-multiple-incorporate-shareholders-LTD-incorporation-v2.docx",
+  "chunks_processed": 4,
+  "issues_found": 20,
+  "items": [
+    {
+      "chunk_id": "776dd8f91529",
+      "issue": "Missing core incorporation info (share capital, registered office, directors)",
+      "severity": "High",
+      "suggestion": "The resolution should explicitly state the share capital, registered office address, and the names and addresses of the initial directors.  This information is crucial for incorporation and is missing from the provided text.",
+      "citation": "ADGM Companies Regulations 2020",
+      "supporting_refs": []
+    },
+    {
+      "chunk_id": "776dd8f91529",
+      "issue": "Ambiguous language in obligations",
+      "severity": "Medium",
+      "suggestion": "The instructions are somewhat vague.  Clarify the exact requirements for completing the template, including formatting, acceptable electronic signature methods, and the precise content to be included in each section.  Provide specific examples.",
+      "citation": "ADGM Companies Regulations 2020",
+      "supporting_refs": []
+    },
+    {
+      "chunk_id": "776dd8f91529",
+      "issue": "Missing core incorporation info (share capital, registered office, directors)",
+      "severity": "High",
+      "suggestion": "The resolution should explicitly state the share capital, registered office address, and the names and addresses of the initial directors.  This information is crucial for incorporation and is missing from the provided text.",
+      "citation": "ADGM Companies Regulations 2020",
+      "supporting_refs": []
+    },
+    {
+      "chunk_id": "776dd8f91529",
+      "issue": "Ambiguous language in obligations",
+      "severity": "Medium",
+      "suggestion": "The instructions are somewhat vague.  Clarify the exact requirements for completing the template, including formatting, acceptable electronic signature methods, and the precise content to be included in each section.  Provide specific examples.",
+      "citation": "ADGM Companies Regulations 2020",
+      "supporting_refs": []
+    },
+    {
+      "chunk_id": "e9f5bcff8d82",
+      "issue": "Potentially non-compliant email address",
+      "severity": "Medium",
+      "suggestion": "Verify if ADGM.Registration@adgm.com is the officially designated email address for general inquiries. If not, replace it with the correct official contact information, or add a disclaimer specifying the purpose of this email address.",
+      "citation": "ADGM Companies Regulations 2020 and related guidelines might specify preferred contact methods for official communications.",
+      "supporting_refs": [
+        0,
+        1,
+        2
+      ]
+    },
+    {
+      "chunk_id": "776dd8f91529",
+      "issue": "Missing core incorporation info (share capital, registered office, directors)",
+      "severity": "High",
+      "suggestion": "The resolution should explicitly state the share capital, registered office address, and the names and addresses of the initial directors.  This information is crucial for incorporation and is missing from the provided text.",
+      "citation": "ADGM Companies Regulations 2020",
+      "supporting_refs": []
+    },
+    {
+      "chunk_id": "776dd8f91529",
+      "issue": "Ambiguous language in obligations",
+      "severity": "Medium",
+      "suggestion": "The instructions are somewhat vague.  Clarify the exact requirements for completing the template, including formatting, acceptable electronic signature methods, and the precise content to be included in each section.  Provide specific examples.",
+      "citation": "ADGM Companies Regulations 2020",
+      "supporting_refs": []
+    },
+    {
+      "chunk_id": "e9f5bcff8d82",
+      "issue": "Potentially non-compliant email address",
+      "severity": "Medium",
+      "suggestion": "Verify if ADGM.Registration@adgm.com is the officially designated email address for general inquiries. If not, replace it with the correct official contact information, or add a disclaimer specifying the purpose of this email address.",
+      "citation": "ADGM Companies Regulations 2020 and related guidelines might specify preferred contact methods for official communications.",
+      "supporting_refs": [
+        0,
+        1,
+        2
+      ]
+    },
+    {
+      "chunk_id": "9aaa35e633fe",
+      "issue": "Missing core incorporation info (share capital, registered office, directors)",
+      "severity": "High",
+      "suggestion": "Add sections specifying share capital, registered office address, and details of the appointed directors (name, address, nationality).  Ensure this information aligns with the requirements of the ADGM Companies Regulations 2020.",
+      "citation": "ADGM Companies Regulations 2020",
+      "supporting_refs": [
+        2
+      ]
+    },
+    {
+      "chunk_id": "9aaa35e633fe",
+      "issue": "Missing/invalid signatory or witness section",
+      "severity": "High",
+      "suggestion": "Include a section for the signatures of the incorporating shareholders, including their printed names, addresses, and dates of signature.  Consider adding a witness section as per ADGM best practices.",
+      "citation": "ADGM Companies Regulations 2020",
+      "supporting_refs": [
+        0,
+        1,
+        2
+      ]
+    },
+    {
+      "chunk_id": "9aaa35e633fe",
+      "issue": "Ambiguous language in obligations",
+      "severity": "Medium",
+      "suggestion": "Clarify the roles and responsibilities of the appointed officers (authorized signatories, directors, and secretary).  Specify their authorities and any limitations.",
+      "citation": "ADGM Companies Regulations 2020",
+      "supporting_refs": [
+        2
+      ]
+    },
+    {
+      "chunk_id": "776dd8f91529",
+      "issue": "Missing core incorporation info (share capital, registered office, directors)",
+      "severity": "High",
+      "suggestion": "The resolution should explicitly state the share capital, registered office address, and the names and addresses of the initial directors.  This information is crucial for incorporation and is missing from the provided text.",
+      "citation": "ADGM Companies Regulations 2020",
+      "supporting_refs": []
+    },
+    {
+      "chunk_id": "776dd8f91529",
+      "issue": "Ambiguous language in obligations",
+      "severity": "Medium",
+      "suggestion": "The instructions are somewhat vague.  Clarify the exact requirements for completing the template, including formatting, acceptable electronic signature methods, and the precise content to be included in each section.  Provide specific examples.",
+      "citation": "ADGM Companies Regulations 2020",
+      "supporting_refs": []
+    },
+    {
+      "chunk_id": "e9f5bcff8d82",
+      "issue": "Potentially non-compliant email address",
+      "severity": "Medium",
+      "suggestion": "Verify if ADGM.Registration@adgm.com is the officially designated email address for general inquiries. If not, replace it with the correct official contact information, or add a disclaimer specifying the purpose of this email address.",
+      "citation": "ADGM Companies Regulations 2020 and related guidelines might specify preferred contact methods for official communications.",
+      "supporting_refs": [
+        0,
+        1,
+        2
+      ]
+    },
+    {
+      "chunk_id": "9aaa35e633fe",
+      "issue": "Missing core incorporation info (share capital, registered office, directors)",
+      "severity": "High",
+      "suggestion": "Add sections specifying share capital, registered office address, and details of the appointed directors (name, address, nationality).  Ensure this information aligns with the requirements of the ADGM Companies Regulations 2020.",
+      "citation": "ADGM Companies Regulations 2020",
+      "supporting_refs": [
+        2
+      ]
+    },
+    {
+      "chunk_id": "9aaa35e633fe",
+      "issue": "Missing/invalid signatory or witness section",
+      "severity": "High",
+      "suggestion": "Include a section for the signatures of the incorporating shareholders, including their printed names, addresses, and dates of signature.  Consider adding a witness section as per ADGM best practices.",
+      "citation": "ADGM Companies Regulations 2020",
+      "supporting_refs": [
+        0,
+        1,
+        2
+      ]
+    },
+    {
+      "chunk_id": "9aaa35e633fe",
+      "issue": "Ambiguous language in obligations",
+      "severity": "Medium",
+      "suggestion": "Clarify the roles and responsibilities of the appointed officers (authorized signatories, directors, and secretary).  Specify their authorities and any limitations.",
+      "citation": "ADGM Companies Regulations 2020",
+      "supporting_refs": [
+        2
+      ]
+    },
+    {
+      "chunk_id": "075cb7137f34",
+      "issue": "Missing core incorporation info (share capital, registered office, directors)",
+      "severity": "High",
+      "suggestion": "Include details of registered office address, the names and addresses of the directors, and a complete breakdown of share capital including class, nominal value, number of shares, and total value.",
+      "citation": "ADGM Companies Regulations 2020",
+      "supporting_refs": []
+    },
+    {
+      "chunk_id": "075cb7137f34",
+      "issue": "Ambiguous language in obligations",
+      "severity": "Medium",
+      "suggestion": "Specify the exact obligations and powers granted to the appointed signatory.  Avoid vague terms like \"as said person shall deem necessary or advisable\".  Clearly define the scope of their authority.",
+      "citation": "ADGM Companies Regulations 2020",
+      "supporting_refs": [
+        0,
+        1,
+        2
+      ]
+    },
+    {
+      "chunk_id": "075cb7137f34",
+      "issue": "Missing/invalid signatory or witness section",
+      "severity": "High",
+      "suggestion": "Add a section for the signatures of the incorporating shareholders, including the date of signing.  Ensure that the signatures are witnessed and attested as per ADGM requirements.",
+      "citation": "ADGM Companies Regulations 2020",
+      "supporting_refs": [
+        0,
+        1,
+        2
+      ]
+    }
+  ]
+}
